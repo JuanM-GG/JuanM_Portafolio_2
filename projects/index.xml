@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Juan Manuel Gutiérrez García</title>
+    <link>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/</link>
+    <description>Recent content in Projects on Juan Manuel Gutiérrez García</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://juanm-gg.github.io/JuanM_Portafolio_2/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fermentation Analysis II</title>
+      <link>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/project-2/</link>
+      <pubDate>Sun, 11 Oct 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/project-2/</guid>
+      <description>Statistic analysis is one of the most important approach in order to optimize bioprocesses. In this web application we have integrated some statistical tools tools to automatize the analysis of bioprocesses, such as t-test, ANOVA and Surface Response Analysis. The user can choose between different types of linear regression models, the variables to analize and download the results once the calculations has been made.
+Link to this web application
+Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Fermentation Analysis I</title>
+      <link>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/project-1/</link>
+      <pubDate>Mon, 10 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/project-1/</guid>
+      <description>This wep application allows the user to simulate different types of kinetic models in a lote type bioreactor. The models that have been considered here are some of the most popular and useful models used in fermentation modelling. Through the use of Genetic Algorithms, it is possible to find the kinetic parameters once the user has entered his data. Because GA are global optimization techniques, the user can be sure about the validity of the kinetics paramets he obtains.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,42 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/project-2/</loc>
+    <lastmod>2020-10-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <lastmod>2020-10-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/post/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/project-1/</loc>
+    <lastmod>2017-04-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/tags/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/post/</loc>
+    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/projects/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -51,19 +37,19 @@
   </url>
   
   <url>
-    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/post/chapter-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/contact/</loc>
+    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/cv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://juanm-gg.github.io/JuanM_Portafolio_2/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
